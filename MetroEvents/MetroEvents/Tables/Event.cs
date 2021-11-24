@@ -7,7 +7,7 @@ namespace MetroEvents.Tables {
     class Event {
 
         [PrimaryKey]
-        public Guid EventId { get; set; }
+        public int EventId { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
         public string Date { get; set; }

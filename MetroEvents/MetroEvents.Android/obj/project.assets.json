@@ -2384,11 +2384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
       "projectName": "MetroEvents.Android",
-      "projectPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
+      "projectPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
       "packagesPath": "C:\\Users\\Nikola Tesla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.Android\\obj\\",
+      "outputPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2409,8 +2409,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents\\MetroEvents.csproj": {
-              "projectPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents\\MetroEvents.csproj"
+            "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents\\MetroEvents.csproj": {
+              "projectPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents\\MetroEvents.csproj"
             }
           }
         }

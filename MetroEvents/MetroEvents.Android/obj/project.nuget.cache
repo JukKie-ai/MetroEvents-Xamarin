@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qe022JbMW95HhZ43eGJw8rZaNFTjnSEZyJUQkAJv9ea8jJq4BVWJaTEoVaJTKYYi+SLGo0QpbfBi+ke4Ex6SCA==",
+  "dgSpecHash": "z03BoloQTRES7RIzWAMXYQvgVSwjEiO9pEqZfwt2iEwRjB/5T0jvnEAB/+/84Ei7FIjCrwnB5gsy5WyFiL7jWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
+  "projectFilePath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.Android\\MetroEvents.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola Tesla\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Nikola Tesla\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

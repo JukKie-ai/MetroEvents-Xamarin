@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wj+Qorjeg0p1a2Od4EZU8GBysg9ylLoOkdUvBj1ynTO1CCo2esbd1pduQ6uPtLGG4salMfChGBRDXIyrIgqdyw==",
+  "dgSpecHash": "ClVhSybjQKzDQTHxGxhHnIv8RarD/udO/Fm7IcXjToaMb/sQ9EPkwQZ+5BxYYn7aYX5sVb3yK3v1edCNYQqaeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents\\MetroEvents.csproj",
+  "projectFilePath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents\\MetroEvents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola Tesla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Nikola Tesla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

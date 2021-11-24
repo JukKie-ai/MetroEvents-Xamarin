@@ -1458,11 +1458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.iOS\\MetroEvents.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.iOS\\MetroEvents.iOS.csproj",
       "projectName": "MetroEvents.iOS",
-      "projectPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.iOS\\MetroEvents.iOS.csproj",
+      "projectPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.iOS\\MetroEvents.iOS.csproj",
       "packagesPath": "C:\\Users\\Nikola Tesla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1483,8 +1483,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents\\MetroEvents.csproj": {
-              "projectPath": "C:\\Users\\Nikola Tesla\\source\\repos\\MetroEvents\\MetroEvents\\MetroEvents\\MetroEvents.csproj"
+            "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents\\MetroEvents.csproj": {
+              "projectPath": "C:\\Users\\Nikola Tesla\\Documents\\GitHub\\MetroEvents-Xamarin\\MetroEvents\\MetroEvents\\MetroEvents.csproj"
             }
           }
         }
