@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MetroEvents.Views.Register"
+             Title="Register">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Label Text="Username:" FontSize="Large"/>
+                <Entry Placeholder="Enter Username" x:Name="EntryUsername" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Password:" FontSize="Large"/>
+                <Entry Placeholder="Enter Password" x:Name="EntryPassword" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            <StackLayout>
+                <Button Text="REGISTER" Clicked="Button_Clicked"  HorizontalOptions="Center"></Button>
+            </StackLayout>
+            <StackLayout>
+                <Button Text="LOGIN" Clicked="Login_Clicked"  HorizontalOptions="Center"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
